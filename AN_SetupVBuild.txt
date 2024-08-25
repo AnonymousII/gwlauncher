@@ -1,0 +1,6 @@
+Projekt Rechtsklick ->NuGet-Pakete verwalten
+oben rechts Zahnrad
+links ausgewählt: NuGet-Paket-Manager -> Paketquellen 
+oben rechts +
+Name: nuget.org
+Quelle: https://api.nuget.org/v3/index.json
